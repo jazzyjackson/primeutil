@@ -1,0 +1,9 @@
+{
+  "name": "primeutil",
+  "version": "1.0.0",
+  "description": "A memoized sieve of erostaphanes to check for primality, list primes, or quickly find the nearest prime of large numbers",
+  "main": "index.js",
+  "repository": "https://github.com/jazzyjackson/primeutil.git",
+  "author": "Colten Jackson <jazzyjackson@gmail.com>",
+  "license": "MIT"
+}
